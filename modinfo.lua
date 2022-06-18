@@ -1,4 +1,4 @@
-name = "[DST]Musha"
+name = "[DST]Musha (Local)"
 version = "T 14.2.4"
 description = "[ Version :  T 14.2.4 ]\n-------------------------\n[        Information       ]\nStat-(L)   Skill-(K)  Visual-(O,F5)\n[       Active Skills       ]\nLightning/Valkyrie-(R)  Shadow-(G)  Shield-(C) \nMusic/Sniff-(X)   Sleep/Wakeup-(T) \n[  Yamche  ]\nFollow-(Z)  Battle-(V)  Gather-(B) \n[   Arong   ]: Follow-(F1) [   Dall   ]: Follow-(F2) \nAuthor:  eunmanaz@naver.com"
 author = "Sunnyyyyholic"
