@@ -1,5 +1,5 @@
--- Basic info (customized)
-name = "DemoMod"
+-- Basic info
+name = "Musha (Neko.Ver)"
 description = [[
     A demo mod for testing purposes.
 ]]
@@ -28,6 +28,9 @@ client_only_mod = false
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
 
+-- Higher priority means the mod will get loaded first
+-- priority = 2147483647 
+
 -- The mod's tags displayed on the server list
 server_filter_tags = {
     "Neko",
@@ -38,7 +41,7 @@ configuration_options = {
 	{
         name = "modLanguage",
         label = "Mod Language",
-        hover = "[*]Choose mod language.\n[*]选择语言.",
+        hover = "[*]Choose mod language\n[*]选择语言",
         options =
         {
 			{
