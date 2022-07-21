@@ -157,7 +157,7 @@ configuration_options = {
         default = 114,
     },
     {
-        name = "hotkey_stealth",
+        name = "hotkey_berserk",
         label = "Hide and Sneak attack",
         hover = "Hide in shadow and assassinate enemy",
         options =
